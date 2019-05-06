@@ -1,0 +1,24 @@
+body{
+    background-color:tan
+}
+
+#album{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.img {
+    position: relative;
+    float: left;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+header{
+    text-shadow: 2px;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
